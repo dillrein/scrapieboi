@@ -1,2 +1,0 @@
-# scrapieboi
-scrape  / mongo practice 
